@@ -2,7 +2,7 @@
 
 > This project is to excersise linters, git and githubworkflow. The contents may not be reach of content since it is practise page.
 
-![screenshot](./app_shot.png)
+![screenshot](./app_shot.PNG)
 
 Additional description about the project and its features.
 
