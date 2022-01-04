@@ -1,3 +1,5 @@
 .env
 vendor/
 test.md
+env
+node_modules/

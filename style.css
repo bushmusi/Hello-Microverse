@@ -1,4 +1,44 @@
-h1 {
-    color: aqua;
-    font-weight: 100;
+.all-browsers {
+  margin: 0;
+  padding: 50px;
+  background-color: lightgray;
+}
+
+.all-browsers > h1,
+.browser {
+  margin: 10px;
+  padding: 5px;
+}
+
+.browser {
+  background-color: white;
+}
+
+.browser > h2,
+p {
+  margin: 4px;
+  font-size: 90%;
+}
+
+.box-model {
+  margin: 10px 0 0 0;
+  padding: 5px;
+  height: inherit;
+  background-color: lightgray;
+}
+
+.box-model > .first-box {
+  margin: 10px;
+  padding: 15px;
+  border: 6px solid #949532;
+  display: block;
+  background-color: gray;
+}
+
+.box-model > .second-box {
+  margin: 10px;
+  padding: 15px;
+  border: 16px solid #949599;
+  border-radius: 10px;
+  background-color: gray;
 }
