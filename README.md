@@ -27,6 +27,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 - Install node.js
+- ** Set-up linters in your local env **
+1. Webhint
+2. stylelint
 
 ### Install
 - Open index.html file in your prefarable browser
